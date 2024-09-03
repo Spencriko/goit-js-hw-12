@@ -24,3 +24,4 @@ export const fetchPhotos = async (searchQuery, page) => {
     throw error;
   }
 };
+e
